@@ -40,8 +40,7 @@ save_to_clipboard(): Copies the provided string to the system's clipboard
 4) source .venv/bin/activate (activate the virtual environment)    
 5) pip install -r requirements.txt (install needed libraries into current venv)
 6) python project.py (start the application, and gui interface)           
-7) pytest test_project.py (run the test for helper functions, to ensure proper functionality)                      
-
+*** Linux users need to install xclip for clipboard functionality
 
 ## Future Improvements
 
