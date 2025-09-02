@@ -1,7 +1,5 @@
 # MaybeNotes (maybe its important, maybe its useless, we got you covered regardless, "SPEED I AM SPEED")
 
-## Video Demo:  https://youtu.be/XFb54XtPxk8
-
 
 ## Description
 
