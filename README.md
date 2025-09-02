@@ -46,4 +46,4 @@ save_to_clipboard(): Copies the provided string to the system's clipboard
 
 1) Improve GUI with customization options for users for fonts, colors, themes, and formatting
 2) Design to become a full fledged application, with installer and security signatures for Linux, Windows and Mac, so that I can use across all my devices, and for others as well. Then it would really become one of the world's lightest weight note taking applications, completely open sourced, local, and private.
-3) Implement LLM api key input option, to bring the power of AI into notes, for voice to text, summarization, and other features. 
+3) Add option for local offline LLM integration, to bring the power of AI into notes, for voice to text, summarization, and other features. 
